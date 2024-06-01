@@ -5,7 +5,7 @@
 ## Структура проекту
 
 ```
-project_root/
+root/
 ├── data
 │   └── tasks.json
 ├── scripts
